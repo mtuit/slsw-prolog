@@ -41,7 +41,7 @@ plays_genre(keith_richards, blues).
 plays_genre(ronnie_wood, rock).
 plays_genre(ronnie_wood, blues).
 
-/** <examples> Your example queries go here, e.g.
+/** <examples>
 ?- wrote(donald_knuth, What).
 ?- wrote(What, introduction_to_data_algorithms).
 ?- plays_instrument(What, guitar)
